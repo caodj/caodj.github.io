@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on 曹德军</title>
+    <link>/categories/development/</link>
+    <description>Recent content in Development on 曹德军</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2016 22:25:51 +0800</lastBuildDate>
+    <atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 10 Nov 2016 22:25:51 +0800</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>
+
+&lt;p&gt;最后一次课程&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt; &lt;span class=&#34;cpf&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;
+&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;argc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;char&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;argv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+  &lt;span class=&#34;n&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;quot;hello world&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;lt;!&lt;em&gt;more&lt;/em&gt;&amp;gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;# 一级标题&lt;/p&gt;
+
+&lt;p&gt;# 二级标题&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;1-markdown-语法&#34;&gt;1 markdown 语法&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-1-标题&#34;&gt;1.1  标题&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;# 一级标题&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;# 一级标题&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;## 二级标题&lt;/p&gt;
+
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+
+&lt;p&gt;###### 六级标题&lt;/p&gt;
+
+&lt;h6 id=&#34;六级标题&#34;&gt;六级标题&lt;/h6&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;1-2-引用&#34;&gt;1.2 引用&lt;/h2&gt;
+
+&lt;p&gt;&amp;gt; 这里是一个引用&lt;/p&gt;
+
+&lt;p&gt;效果&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这里是一个引用&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;无序列表  * ,+ ,-&lt;/p&gt;
+
+&lt;p&gt;* 列表1&lt;/p&gt;
+
+&lt;p&gt;* 列表2&lt;/p&gt;
+
+&lt;h3 id=&#34;效果&#34;&gt;效果&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;列表1&lt;/li&gt;
+&lt;li&gt;列表2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;1-3-代码区域&#34;&gt;1.3 代码区域&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;行内代码&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;echo &#39;hello world&#39;&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
